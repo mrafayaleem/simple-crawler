@@ -38,3 +38,15 @@ The project contains:
 
 ## Tests
 - To run mock tests, issue the command `nosetests` from the project dir.
+
+## License:
+
+The MIT License (MIT)
+
+## Reporting Bugs:
+
+Please email any bugs or feature requests at: mrafayaleem[at]gmail.com
+
+## Author:
+
+[Mohammad Rafay Aleem](http://mrafayaleem.com/)
